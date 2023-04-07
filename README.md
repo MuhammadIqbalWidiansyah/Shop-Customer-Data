@@ -11,3 +11,5 @@ Dataset consists of 2000 records and 8 columns:
 - Profession
 - Work Experience - in years
 - Family Size
+
+Source: https://www.kaggle.com/datasets/datascientistanna/customers-dataset
